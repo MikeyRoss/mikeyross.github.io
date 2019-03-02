@@ -9,8 +9,10 @@
 
 #center1 {
 	text-align: center;
+	}
+#center2 {
+	align-items: center;
 }
-
 .mypic {
 	width: 100%;
 	height: auto;
